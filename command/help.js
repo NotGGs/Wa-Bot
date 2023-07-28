@@ -20,7 +20,7 @@ exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerN
  • Downloads : ${download}
 
 *BOT INFO*
- • Creator : ${ownerName}
+ • Creator : ${ownerName} & 𝕲𝖗𝖊𝖌𝖔𝖗𝖎𝖚𝖘
  • Bot Name : ${botName}
  • Time : ${jam}
  • Date : ${tanggal(new Date())}
